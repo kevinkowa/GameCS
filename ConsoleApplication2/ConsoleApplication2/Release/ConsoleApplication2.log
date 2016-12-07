@@ -1,0 +1,2 @@
+﻿  ConsoleApplication2.cpp
+c:\users\kowalski\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\Board.h(5): fatal error C1083: Cannot open include file: 'SFML/Audio.hpp': No such file or directory
