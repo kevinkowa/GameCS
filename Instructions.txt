@@ -4,10 +4,12 @@ Make sure you have Visual Studio 2015.
 If you don't, the game won't work.
 
 
+If you want to run the game on your Visual Studio
+Do the Following.
 
 https://youtu.be/2JVpmWwMo0o?t=344
 Follow the instructions of this Video.
-Don't add the dependencies that the video gives you.
+Don't add the Additional dependencies that the video gives you.
 add the following:
 sfml-graphics-d.lib
 sfml-window-d.lib
