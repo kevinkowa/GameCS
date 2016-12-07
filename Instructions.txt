@@ -1,0 +1,30 @@
+The Zip File contains the .exe of the game.
+You can download it and just click on the .exe to play the game.
+Make sure you have Visual Studio 2015.
+If you don't, the game won't work.
+
+
+
+https://youtu.be/2JVpmWwMo0o?t=344
+Follow the instructions of this Video.
+Don't add the dependencies that the video gives you.
+add the following:
+sfml-graphics-d.lib
+sfml-window-d.lib
+sfml-system-d.lib
+sfml-main-d.lib
+sfml-graphics-s-d.lib	
+sfml-window-s-d.lib	
+sfml-audio-s-d.lib	
+sfml-audio-d.lib
+sfml-network-s-d.lib	
+sfml-system-s-d.lib	
+
+
+-Go to project properties
+-C/C++
+-Code Generation
+-Change your Runtime Library to MTd
+
+If there are any problems, Contact me.
+Kevin.kowalski01@utrgv.edu
